@@ -1,7 +1,9 @@
+import {FaHome} from 'react-icons/fa'
+
 function Home() {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Home</h1><FaHome/>
             <p>Conteúdo da página</p>
         </div>
     )
